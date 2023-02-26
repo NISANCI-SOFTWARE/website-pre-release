@@ -90,3 +90,22 @@ h1 {
 #end_infos_c a:hover {
   color: #7c9dff;
 }
+
+
+@media only screen and (max-width: 960px) {
+
+.yebea_logo{
+  width: 280px;
+
+
+}
+
+
+.text h1 {
+  font-size: 19px;
+}
+
+
+
+
+ }
